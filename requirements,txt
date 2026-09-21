@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]
+groq
+edge-tts
+duckduckgo-search
+httpx
