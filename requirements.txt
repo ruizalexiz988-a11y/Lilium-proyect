@@ -3,3 +3,4 @@ groq
 edge-tts
 duckduckgo-search
 httpx
+elevenlabs
